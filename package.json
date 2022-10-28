@@ -3,7 +3,7 @@
   "private": true,
   "description": "A simple minimal Gatsby powered blog",
   "version": "0.0.1",
-  "author": "Agney Menon <agney@outlook.in>",
+  "author": "Didik Kamseno <mybigidea28@gmail.com>",
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop",
@@ -79,6 +79,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/agneym/blog"
+    "url": "https://github.com/didikkamseno/blog"
   }
 }

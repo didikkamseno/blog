@@ -19,7 +19,7 @@ const lightColors = {
 };
 
 const fonts = {
-  heading: `'Noto Sans', sans-serif`,
+  heading: `'Lora', serif`,
 };
 
 const theme = {

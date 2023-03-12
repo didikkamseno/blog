@@ -64,7 +64,7 @@ const MainWebsite = styled.p`
 function Footer() {
   return (
     <Container>
-      <ExternalLink className="h-card" href="https://agney.dev" as="a" rel="me">
+      <ExternalLink className="h-card" href="https://didikkamseno.com" as="a" rel="me">
         <MainWebsite>agney.dev</MainWebsite>
       </ExternalLink>
       <div
@@ -84,17 +84,17 @@ function Footer() {
             direction="ltr"
             as="a"
             rel="me"
-            href="https://twitter.com/agneymenon"
+            href="https://twitter.com/didikkamseno"
           >
             Twitter
           </ExternalLink>
-          <ExternalLink direction="ltr" as="a" href="https://medium.com/@agney">
+          <ExternalLink direction="ltr" as="a" href="https://medium.com/@didikkamseno">
             Medium
           </ExternalLink>
           <ExternalLink
             direction="ltr"
             as="a"
-            href="https://dev.to/boywithsilverwings"
+            href="https://dev.to/didikkamseno"
           >
             Dev.to
           </ExternalLink>
@@ -107,14 +107,14 @@ function Footer() {
             rel="me"
             direction="ltr"
             as="a"
-            href="https://github.com/agneym"
+            href="https://github.com/didikkamseno"
           >
             Github
           </ExternalLink>
           <ExternalLink
             direction="ltr"
             as="a"
-            href="https://stackoverflow.com/users/4374566/agney"
+            href="https://stackoverflow.com/"
           >
             StackOverflow
           </ExternalLink>

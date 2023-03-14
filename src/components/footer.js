@@ -65,7 +65,7 @@ function Footer() {
   return (
     <Container>
       <ExternalLink className="h-card" href="https://didikkamseno.com" as="a" rel="me">
-        <MainWebsite>agney.dev</MainWebsite>
+        <MainWebsite>Didik K</MainWebsite>
       </ExternalLink>
       <div
         css={`
